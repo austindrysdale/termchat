@@ -46,12 +46,9 @@ termchat-server
 
 ```bash
 termchat/
-├── src/
-│  ├── client.ts  # Core client logic
-│  └── server.ts  # Core server logic
-└── cli/
-├── termchat-client.ts  # Client entry point
-└── termchat-server.ts  # Server entry point
+├─ src/
+│  ├─ client.ts # Core Client Logic
+│  ├─ server.ts # Core Server Logic
 ```
 
 ## Learning Resources

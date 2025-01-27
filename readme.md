@@ -13,12 +13,12 @@ This project was created as a learning exercise for my friend to explore:
 
 Install the client
 ```bash
-deno install --allow-net -n termchat jsr:@yourusername/termchat/cli/termchat-client
+deno install --allow-net -n termchat jsr:@yourusername/termchat/src/termchat-client
 ```
 
 Install the server:
 ```bash
-deno install --allow-net -n termchat-server jsr:@yourusername/termchat/cli/termchat-server
+deno install -A -n termchat-server jsr:@yourusername/termchat/src/termchat-server
 ```
 
 ## Usage

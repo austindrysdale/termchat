@@ -66,3 +66,4 @@ This is a learning project, but suggestions and improvements are welcome!
 
 ## License
 MIT License
+Copyright (c) 2025 A. K. Drysdale
